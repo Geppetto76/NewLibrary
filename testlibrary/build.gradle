@@ -1,8 +1,8 @@
 apply plugin: 'com.android.library'
 
 ext {
-    bintrayRepo = 'maven'
-    bintrayName = 'testlibrary'   // Has to be same as your library module name
+    bintrayRepo = 'NewLibrary'
+    bintrayName = 'newlibrary'   // Has to be same as your library module name
 
     publishedGroupId = 'com.github.geppetto76'
     libraryName = 'testlibrary'
